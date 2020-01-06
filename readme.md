@@ -11,3 +11,4 @@ Test: Jest
 Code Quality: ESLint
 
 ## List of Code Challenges
+ * Fibonacci Series 
