@@ -1,3 +1,7 @@
+/**
+ * 
+ * @param {Number} n // Represent the position number of which element it should return
+ */
 export default function fibonacciPosition(n)
 {
     const sqrt5 = Math.sqrt(5);

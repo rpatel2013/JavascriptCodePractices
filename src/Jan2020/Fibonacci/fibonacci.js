@@ -1,3 +1,7 @@
+/**
+ * 
+ * @param {Number} n - Represent the position of elements in sequence it should return
+ */
 export default function fibonacci(n) {
     const fibonacciSequence = [1];
 
