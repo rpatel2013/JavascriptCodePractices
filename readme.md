@@ -12,3 +12,4 @@ Code Quality: ESLint
 
 ## List of Code Challenges
  * Fibonacci Series 
+ * Longest substring using dynamic programming
